@@ -1,1 +1,1 @@
-# Mencari bilangan positif menggunakan C++
+# Mencari bilangan bulat positif menggunakan C++
